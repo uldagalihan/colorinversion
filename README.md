@@ -36,3 +36,18 @@
 1. Bu projeyi klonlayın:
    ```bash
    git clone https://github.com/uldagalihan/image-processing.git
+
+## Girdi ve Çıktılar
+### Girdi Görüntüsü
+Aşağıda, işlem yapılmadan önceki örnek giriş görüntüsü gösterilmiştir:
+
+![Girdi Görüntüsü](images/input_image3.png)
+
+### Çıktı Görüntüleri
+İşlem sonrasında elde edilen çıktılar:
+
+**Color Inversion (Renk Tersleme):**
+![Renk Tersleme Çıktısı](images/output_image1.png)
+
+**Histogram Eşitleme:**
+![Histogram Eşitleme Çıktısı](images/output_image2.png)
