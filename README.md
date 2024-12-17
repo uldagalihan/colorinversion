@@ -41,13 +41,13 @@
 ### Girdi Görüntüsü
 Aşağıda, işlem yapılmadan önceki örnek giriş görüntüsü gösterilmiştir:
 
-![Girdi Görüntüsü](images/input_image3.png)
+![Girdi Görüntüsü](image-processing/input_image3.png)
 
 ### Çıktı Görüntüleri
 İşlem sonrasında elde edilen çıktılar:
 
 **Color Inversion (Renk Tersleme):**
-![Renk Tersleme Çıktısı](images/output_image1.png)
+![Renk Tersleme Çıktısı](image-processing/output_image1.png)
 
 **Histogram Eşitleme:**
-![Histogram Eşitleme Çıktısı](images/output_image2.png)
+![Histogram Eşitleme Çıktısı](image-processing/output_image2.png)
