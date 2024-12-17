@@ -35,4 +35,4 @@
 ### Kurulum
 1. Bu projeyi klonlayın:
    ```bash
-   git clone https://github.com/alihanuludag/assembly-image-processing.git
+   git clone https://github.com/uldagalihan/image-processing.git
