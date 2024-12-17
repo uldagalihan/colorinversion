@@ -1,0 +1,4 @@
+﻿  21011029.cpp
+C:\Users\alihan\source\repos\hw1-visualstudio\hw1-visualstudio\21011029.cpp(133,18): warning C4101: 'min_cdf': unreferenced local variable
+C:\Users\alihan\source\repos\hw1-visualstudio\hw1-visualstudio\21011029.cpp(133,27): warning C4101: 'range': unreferenced local variable
+  hw1.vcxproj -> C:\Users\alihan\source\repos\hw1-visualstudio\hw1-visualstudio\Debug\hw1.exe

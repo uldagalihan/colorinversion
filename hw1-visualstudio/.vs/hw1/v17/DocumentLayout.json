@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alihan\\source\\repos\\hw1-visualstudio\\hw1-visualstudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45F708E8-6C2A-4C66-BBDE-2E95026A0842}|hw1.vcxproj|C:\\Users\\alihan\\source\\repos\\hw1-visualstudio\\hw1-visualstudio\\21011012.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45F708E8-6C2A-4C66-BBDE-2E95026A0842}|hw1.vcxproj|solutionrelative:21011012.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "21011012.cpp",
+              "DocumentMoniker": "C:\\Users\\alihan\\source\\repos\\hw1-visualstudio\\hw1-visualstudio\\21011012.cpp",
+              "RelativeDocumentMoniker": "21011012.cpp",
+              "ToolTip": "C:\\Users\\alihan\\source\\repos\\hw1-visualstudio\\hw1-visualstudio\\21011012.cpp",
+              "RelativeToolTip": "21011012.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T13:47:02.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
